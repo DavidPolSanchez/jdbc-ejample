@@ -1,0 +1,23 @@
+
+U
+java:S1161":Add the "@Override" annotation above this method signature(°Å·ðþÿÿÿÿ
+}
+java:S1989"bHandle the following exceptions that could be thrown by "showEdit": ServletException, IOException.(’ìã¢üÿÿÿÿ
+v
+java:S1989"`Handle the following exceptions that could be thrown by "delete": ServletException, IOException.(ßõÌå
+}
+java:S1989 "bHandle the following exceptions that could be thrown by "retrieve": ServletException, IOException.(ÝË©—þÿÿÿÿ
+Q
+java:S1854N"6Remove this useless assignment to local variable "id".(ýé µúÿÿÿÿ
+B
+java:S1481N"'Remove this unused "id" local variable.(ýé µúÿÿÿÿ
+s
+java:S1989Q"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ŠÊ´Áûÿÿÿÿ
+n
+java:S1989Y"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ÐŸ©ä
+n
+java:S1989e"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ÿ¯·æ
+}
+java:S1989s"bHandle the following exceptions that could be thrown by "retrieve": ServletException, IOException.(ÞÓÝéùÿÿÿÿ
+a
+java:S1192d"LDefine a constant instead of duplicating this literal "idDirection" 3 times.(Ü™û

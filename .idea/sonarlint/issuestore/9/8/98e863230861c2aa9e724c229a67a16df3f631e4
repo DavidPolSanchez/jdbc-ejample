@@ -1,0 +1,21 @@
+
+\
+java:S1161":Add the "@Override" annotation above this method signature(°Ε·πώÿÿÿÿ8Ύγρ»π/
+
+java:S1989"dHandle the following exceptions that could be thrown by "showCreate": ServletException, IOException.(ϋΝ££8Εγρ»π/
+„
+java:S1989 "bHandle the following exceptions that could be thrown by "showEdit": ServletException, IOException.(’μγΆόÿÿÿÿ8Πγρ»π/
+}
+java:S1989""`Handle the following exceptions that could be thrown by "delete": ServletException, IOException.(ίυΜε8Ργρ»π/
+„
+java:S1989$"bHandle the following exceptions that could be thrown by "retrieve": ServletException, IOException.(έΛ©—ώÿÿÿÿ8Òγρ»π/
+X
+java:S1854]"6Remove this useless assignment to local variable "id".(ύι µϊÿÿÿÿ8άγρ»π/
+I
+java:S1481]"'Remove this unused "id" local variable.(ύι µϊÿÿÿÿ8έγρ»π/
+u
+java:S1989`"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ηΪ¤¨8αγρ»π/
+u
+java:S1989g"XHandle the following exception that could be thrown by "valueOf": NumberFormatException.(ρ8ζγρ»π/
+„
+java:S1989t"bHandle the following exceptions that could be thrown by "retrieve": ServletException, IOException.(ήΣέιωÿÿÿÿ8θγρ»π/
